@@ -1346,15 +1346,11 @@ section
 11. Footer
 *********************************/
 
-.footer
-{
-	
-}
 .footer_content
 {
 	padding-top: 88px;
 	padding-bottom: 83px;
-	background: #1e1332;
+	background: #969696;
 }
 .footer_logo a
 {
@@ -1374,39 +1370,9 @@ section
 }
 .footer_text p
 {
-	color: #6c7079;
+	color: #000000;
 }
-.footer .social
-{
-	margin-top: 33px;
-}
-.footer_submit
-{
-	max-width: 247px;
-	height: 61px;
-	background: #55407d;
-	text-align: center;
-	margin-top: 53px;
-	-webkit-transition: all 200ms ease;
-	-moz-transition: all 200ms ease;
-	-ms-transition: all 200ms ease;
-	-o-transition: all 200ms ease;
-	transition: all 200ms ease;
-}
-.footer_submit:hover
-{
-	background: #48b981;
-}
-.footer_submit a
-{
-	display: block;
-	height: 100%;
-	line-height: 61px;
-	font-size: 14px;
-	font-weight: 500;
-	color: #ffffff;
-	text-transform: uppercase;
-}
+
 .footer_title
 {
 	font-size: 24px;
@@ -1435,7 +1401,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 600;
-	color: #6c7079;
+	color: #000000;
 	padding-left: 15px;
 }
 .usefull_links
@@ -1458,7 +1424,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 600;
-	color: #6c7079;
+	color: #000000;
 }
 .footer_links ul li a:hover
 {
@@ -1601,7 +1567,7 @@ section
 }
 .footer_bar
 {
-	background: #110a1f;
+	background: #969696;
 }
 .footer_bar_content
 {
@@ -1621,7 +1587,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 600;
-	color: #6c7079;
+	color: #000000;
 }
 .footer_nav ul li a:hover
 {

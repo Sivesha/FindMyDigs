@@ -799,7 +799,7 @@ section
 }
 .search_button_2
 {
-	background: #48b981;
+	background: #54665d;
 }
 
 /*********************************
@@ -1129,14 +1129,8 @@ section
 {
 	color: #000000;
 }
-.footer .social
-{
-	margin-top: 33px;
-}
-.footer_submit:hover
-{
-	background: #48b981;
-}
+
+
 .footer_submit a
 {
 	display: block;
@@ -1365,5 +1359,5 @@ section
 }
 .footer_nav ul li a:hover
 {
-	color: #48b981;
+	color: #090c0b;
 }
