@@ -514,7 +514,7 @@ section
 .submit
 {
 	width: 247px;
-	background: #adc867;
+	background: #48b981;
 	height: 100%;
 	text-align: center;
 }
@@ -696,7 +696,7 @@ section
 	width: 57px;
 	height: 57px;
 	border-radius: 50%;
-	background: #adc867;
+	background: #48b981;
 	text-align: center;
 	cursor: pointer;
 	-webkit-transition: all 200ms ease;
@@ -758,7 +758,7 @@ section
 {
 	width: 247px;
 	height: 51px;
-	background: #adc867;
+	background: #48b981;
 	color: #ffffff;
 	border: none;
 	outline: none;
